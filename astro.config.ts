@@ -32,7 +32,7 @@ const whenExternalScripts = (
     : [];
 
 export default defineConfig({
-  base: "/eugenia-vila",
+  base: "/",
   output: "static",
   trailingSlash: "never",
 
